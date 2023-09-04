@@ -24,18 +24,33 @@ convert spectra (RGB) to 3 cone response values (LMS) is like using a camera to 
 
 <ins>color matching</ins>
 lets build one. 
-1. choose any three primary lights. 
+1. choose any three primary lights. (RYB) 
 2. take a set of reference colors, ours are the monochromatic colors of the spectrum = single wavelength of light on the visual spectrum (same colors you get when you diffract white light.)
 3. ask your observer to combine the original three primaries to get every color in your reference set. 
 
-tristimulus values must be made from a specific set of primary lights (RGB) and a specific observer (you). WE also have a specific reference set, monochromatic colors.
+what is the point of the color matching experiment? 
+
+tristimulus values must be made from a specific set of primary lights (RYB) and a specific observer (you). WE also have a specific reference set, monochromatic colors.
 
 tristimulus values = once the match is made between the combination of primaries and some monochromat, a color can be defined by describing the amount of each primary needed to match it.
+
+we have the tristimulus values for the visual spectrum now. 
+**Tristimulus values =  the light intensity of the primary color values in a sample**
 
 give everyone the same set of primary lights and they will use the same colors in the same amounts to make the tristimulus values. everybody will see the tristim vals the same. 
 
 why would we care so much about color matching? based on some color, what do we think its made up of? if we wanted people to see some unknown color, how can we use what we know of how we perceive primaries and the target to make that color?
 
+we need negative values in RGB for when, with only green and blue, our image is still too 'red' compared to the reference. 
+
+****Tristimulus values =  the light intensity of the primary color values in a sample**** --> how much r, g, and b do you use? weights are from 0-255
+
+to get the RBG values that represent a specific color, you need to know the weights of the tristimulus values. 
+"To create the tristimulus values for an arbitrary spectrum, first multiply it by the color-matching functions, then integrate the result to get the total relative weights of the primaries, which are the tristimulus values for that color."
+we have
+- color matching functions = how to go from RYB to RGB
+- tristimulus values = weighting that we experimentally figured out for the primary colors 
+- tristimulus values for that color = weights of the primaries = weights of RGB ?  
 
 
 ### extra math
@@ -47,3 +62,10 @@ energy (Joules)
 poynting = energy / unit area / unit time
 integrate gives you total energy in a given region
 irradiance
+
+### questions
+what are the color matching functions?
+are the tristimulus values like the weights you need to apply to 
+**Tristimulus values =  the light intensity of the primary color values in a sample**
+RYB to get RBG.
+RYB --> RGB
