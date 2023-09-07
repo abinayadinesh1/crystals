@@ -11,3 +11,8 @@ having a faculty sponsor for the space determines if it lives.
 
 
 institution just building/construction on a rooftop where la loma gardens are. 
+if we dont have relationships and are specific in our expectations or goals, if they didnt consent to be in that relationship in the first place, what can we expect of them? we cant include them in grant proposals if we dont establish this relationship with them. 
+
+strong and far reaching movement for food sovereignty that is representative of many diff people. 
+
+half of the food grown here goes to BNC (at least all of the part we grow). the rest, some ofht estuff farmed by peoples program, goes to whereever they distribute to. 

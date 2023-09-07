@@ -51,7 +51,52 @@ we have
 - color matching functions = how to go from RYB to RGB
 - tristimulus values = weighting that we experimentally figured out for the primary colors 
 - tristimulus values for that color = weights of the primaries = weights of RGB ?  
+all colors can be made by combining tristimulus values with primaries --> this makes a color matching function to encode something in RYB to RGB 
 
+RYB + tristim values is a metamer to RGB. this is the foundation of colorimetry/color measurement. 
+
+### CIE Standard Observer
+CIE made some standard color matching functions that form a basis for coloromitry
+one for 2degree fields (small) and 10degree fields (large)
+
+![[Pasted image 20230904151958.png]]
+CIE recommended color-matching functions (1931), also called the CIE 1931 standard observer. (Reprinted by permission from A K Peters Ltd.)
+
+	Tristimulus values are vectors in a linear, 3D space defined by the primary lights. Transforming to a new set of primaries is simply a change of basis; it requires only the value of the new primaries with respect to the old ones. This is the link that ties XYZ to the physical RGB values of a computer display and is the foundation for all quantitative characterization of RGB color spaces.
+
+### Transformations between RGB and XYZ![[Screenshot 2023-09-04 at 3.22.56 PM.png]]
+
+kinda cool, RGB to XYZ preserves 3 dimensions, but XYZ for chromaticity gets rid of luminance (Y). CIE has brightness coded into the color space, as shown but the fact 
+![[Pasted image 20230904152401.png]]
+
+	All RGB spaces inevitably cut off a big chunk of the highly saturated green/blue colors.
+	
+	The XYZ space sort of has the opposite problem. All visible colors can be represented using only positive values in XYZ, but the XYZ primaries themselves are not physically possible colors—they're well outside the visible gamut.
+
+you have an RGB characterization matrix to take you from RGB to XYZ. the inverse of that matrix takes you from XYZ to RGB.
+
+![[Pasted image 20230904153304.png]]
+heat a black body radiator to get a black body curve, white light lies near this curve. 
+
+spectral locus = boundary of gamut = every point on the locus is a pure monochromatic light.
+purple line = connects bound ends of the locus. every color on there is a combination of violet and red. 
+
+### color vision
+![[Screenshot 2023-09-04 at 3.37.27 PM.png]]
+fire af
+
+### nonlinear rgb
+gamma functions = transfer functions
+3d computer graphics is the only field where they keep linear mappings of rgb. 
+display tech, digital video, and image encoding all map pixel values to nonlinear functions of intensity. 
+
+now, transferring between color spaces is a little harder. transformation from RGB to XYZ requires the addition of three ID functions
+
+	If the pixel-to-intensity functions are not scalar multiples of each other (which can easily occur in uncalibrated color systems, such as displays), then equal values of R,G, and B will not create a gray that is simply a darker value of white, but will have some tint depending on which primary is dominant in the blend.
+VERY COOL. 
+
+## closing
+The cone response can be used to model adaptation, the way the cones adjust to changes in illumination.
 
 ### extra math
 intensity :: (||electric field||)^2 +  (||(1/c)magnetic field ||)^2 = power transferred per unit area
