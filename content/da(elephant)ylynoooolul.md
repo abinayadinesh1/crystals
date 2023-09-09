@@ -1,27 +1,39 @@
-9/7
-catch up on biosphere lecture
-go through book 
-journal about alll the happy memories from the past week (MUST DO ASAP!!)
-look into what ren said for tetrachromacy
-<s>last 70 lecture</s>
-need to do espm quiz for missing disc
-catch up on new class
+9/9
+
+
+9/8
+technical interviews are on Saturday (9/9)
+join discord
+[read article]([https://drive.google.com/file/d/1lLKl8PB5uVtZ43YZhk1RW71NgG0QmXrj/view?usp=sharing](https://drive.google.com/file/d/1lLKl8PB5uVtZ43YZhk1RW71NgG0QmXrj/view?usp=sharing)), read supplementary texts, come up with examples and counterexamples
+review how to manipulate tuples/lists/classes in python
+
+eps 109 --> catch up on new class
 	<s>lec 1</s>
 	lec 2
 	lec 3
 	lec 4
-	lab 1
-	lab 2
-	**	hw 1** in prog
+	<s>lec 5 (attended)</s>
+	<s>lab 1</s>
+	<s>lab 2</s>
+	<s>hw 1</s>
 	hw 2
-	hw 3
+	hw 3 (upcoming)
+
+9/7
+<s>catch up on biosphere lecture</s>
+go through book 
+journal about alll the happy memories from the past week (MUST DO ASAP!!)
+look into what ren said for tetrachromacy
+<s>last 70 lecture</s>
+**new 70 lecture
+<s>need to do espm quiz for missing disc</s>
 
 
 10-11 breakfast, talk w mum, catch up on new class
 12- 2 new class
 2-4
 **new 70 lecture
-finish notes on graphs**
+<s>finish notes on graphs**</s>
 4-5
 70 discussion
 eps 109
@@ -29,6 +41,7 @@ oh
 	how to complete lab - since u dont give us a ipynb, how should we answer? submit our own nb or an annotated pdf?
 	my progress/assignments being late?
 	question on the hw about distance. 
+	slack channel
 
 
 
