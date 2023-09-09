@@ -127,3 +127,31 @@ choose e to be 0.2. now, try update your table 10 times, 8 of those choosing the
 the agent will again choose action 2 at time t=2 as it has the highest estimate of expected reward (0.75 > 0.5). it just has the highest estimate of success (which is what the greedy algorithm optimizes for), unles all slots have the same reward. 
 
 
+industry examples of explore vs exploit
+should i take a class in my major or one in a completely different one
+spotify: should i recommend music based on artists a person likes or genres a person listens to. 
+google maps: should i recommend a route with current traffic on it due to an accident (that might clear up by the time they get there), or a more roundabout route that initially seems longer. 
+
+
+
+review how to manipulate tuples/lists/classes in python
+
+tuples
+	cant change their contents
+	indexed, so can have duplicates
+	sum, min, max, len, cmp (=)
+	can convert any list to a tuple
+
+list 
+insert (element, position)
+append(element) --> to end of list
+extend([]) --> appends all items from variable list to original list
+remove(elem) --> first item that 
+pop(index) --> removes and returns 
+sorted(list), from lowest to highest
+set(list)
+reverse
+len
+min max
+
+[expression(variable) for variable in input_set [predicate][, …]]
