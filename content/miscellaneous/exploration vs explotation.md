@@ -20,7 +20,7 @@ observations drive decisions (past data) and decisions lead to new observations 
 **agent** - person making the decisions that leads to good or bad outcomes
 ex. spotify decides to make me a new playlist based on what ive already listened to plus related artists - spotify is the agent and this may have good or bad consequences (on how much i listen)
 trying to find a new way home that might be shorter but more dangerous, im the agent
-**action** - something the agent chooses to try to maximize a reward
+**action** - something u do with a good or bad outcome. trying to optimize the reward. something the agent chooses to try to maximize a reward
 **reward** - the outcome of an action (can be good or bad)
 **reward distribution** - probability of the action and associated reward = probability of the reward
 **expected reward** - multiply the probability of the action by the reward for that action to get the the chances of you making that reward. do that for all possible events and u get the "average" reward. if i were to play this game 1 time, on average i expect to get this. 
