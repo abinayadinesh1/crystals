@@ -9,15 +9,16 @@ review how to manipulate tuples/lists/classes in python
 
 eps 109 --> catch up on new class
 	<s>lec 1</s>
-	lec 2
-	lec 3
-	lec 4
+	<s>lec 2</s>
+	<s>lec 3</s> (missing from 9/5)
+	<s>lec 4</s>
 	<s>lec 5 (attended)</s>
 	<s>lab 1</s>
 	<s>lab 2</s>
 	<s>hw 1</s>
 	hw 2
 	hw 3 (upcoming)
+finish on saturday
 
 9/7
 <s>catch up on biosphere lecture</s>

@@ -1,0 +1,1 @@
+	what are the implications of processors reaching their power limit? (from lec on history of computing)
