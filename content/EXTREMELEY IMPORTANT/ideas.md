@@ -1,3 +1,9 @@
+
+optimal objects color theorem
+paint vs light - how do we make color?
+explaining hyperspectral/multispectral imaging using manim
+	or explaining color arrays and color filters
+	or writing the proof
 multi agent rl to control enough tiny drones to build an image
 take a site built from quartz, go through all the pages to find 
 	similarity is based on nested-ness and content

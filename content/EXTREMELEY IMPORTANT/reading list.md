@@ -1,3 +1,5 @@
+9/12
+BOTH PAPERS ON diffuser based hyperspectral camera from 198 lecture
 Atomic Evidence: Seeing the Molecular Basis of Life David S. Goodsell
 9/7 [Deep Generative Models: Imitation Learning, Image Synthesis, and Compression](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-67.pdf)
 [[comp color readings]] by Jonathan Ho

@@ -1,17 +1,29 @@
-9/11
-prep for cs 70 tomorrow
+REACH OUT TO PEOPLE FROM 198 BC I WANNA GET TO KNOW THEM!!!
+start personal projects, page on website
+start threads for internships
+	figure out NASA!!!
+photography club? foraging decal? climbing club?
+
+9/12
+color vision scripts
+<s>turn in eps 109 assignment</s>
+	go back to notes and grok if u want
+go back and grok 194 from today! 
+computational color proposals
+<s>prep for cs 70 
 	notes
-	textbook
+	mini vitamin</s>
+<s>slides for agroecology decal</s>
+
+woke up and did 70 for a while, had a yum time, 
+
+9/11
 finish comp color proposals
-	readings for 198
-finish eps homeworks
-
+<s>finish eps homeworks (working on it)</s>
 <s>readings for espm 198</s>
-slides for agroecology decal
-
 color vision scripts
 serious list of internships
-
+<s>dinner w CH people</s>
 
 9/8
 technical interviews are on Saturday (9/9)
