@@ -1,10 +1,14 @@
 9/11
-finish eps homeworks
 prep for cs 70 tomorrow
 	notes
 	textbook
 finish comp color proposals
-readings for 198
+	readings for 198
+finish eps homeworks
+
+<s>readings for espm 198</s>
+slides for agroecology decal
+
 color vision scripts
 serious list of internships
 

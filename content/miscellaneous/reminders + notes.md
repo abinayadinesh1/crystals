@@ -21,6 +21,15 @@ ask atsu about github for computational model and if i can build the multispectr
 - <s>launchpad to come out</s>
 
 # notes
+9/11 brent and alex
+**https://celo.org/community **coworking space. ex blockchain for climate, now just many climate people converted to AI
+**shack 15 venture studio** - on top of ferry building. coworking space + if u work there you get contracted at 70$/hr and build projects the shack 15 firm wants. like how can we make vector db's more optimized. 
+brent worked at an MLM between hs to college
+
+alex: how to grow almost anything (not super relevant)
+michael andregg and fathomradiant if im interested in optics or signal processing
+
+akshaya: crop safe from guy named john 
 
 9/4 https://markov.bio/about/ ai copilot for early stage drug discovery
 
