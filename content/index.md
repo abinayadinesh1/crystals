@@ -4,8 +4,6 @@ title: Crystals
 
 [[da(elephant)ylynoooolul]]
 
-[[notes]]
-
 [[reading list]]
 
 [[research home]]
@@ -13,7 +11,5 @@ title: Crystals
 [[computational color (cs 194)]]
 
 [[computer simulations (eps 109)]]
-
-[[reading list]]
 
 
