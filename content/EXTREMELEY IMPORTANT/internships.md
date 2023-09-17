@@ -3,7 +3,15 @@ some very niche very good ml company (must prove i have the background through v
 nasa ames
 jessica - nvidia research
 adobe - research
-
+[[nasa]]
+insitro 
+microsoft research (might be too hard)
+apple research/health
+google research/x
+	https://x.company/blog/posts/mineral-bringing-the-era-of-computational-agriculture-to-life/
+	https://x.company/projects/mineral/
+	https://x.company/projects/taara/
+nvidia?
 
 
 

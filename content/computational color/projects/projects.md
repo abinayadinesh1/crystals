@@ -13,11 +13,17 @@ this model is us trying to figure out how color distribution of a 2d image emerg
 		  well, we have no way to display this in a way thats useful to us. 
 		  can we use this to tell whether or not someone is a tetrachromat? yes, because the input will be very different from that of a 3d viewer.  
 question: 
+cda29 is a tartachromat. 
+ishihara tetrachromat color test. 
+	can have the wiring impossible to tetrachromats
+	color image needs to appear somewhere. the neural correlate in the simulation is an image array, its a high dimensional pixels. 8 channels to make the color of a pixel. this is an upper limit. 
+		gaps are not enough to makea whole nother dimension. neural circuity contrains. 
 **optic nerve signals are encoding color for a 3d surface - what happens when we collapse this to 2d for the purposes of our modelling**
 **what is the learnable function doing? what are each of the parameters encoding?**
-what is 'percept' and is the translation just the perception at a future time step?
-**do we have the response curves for a tetrachromat?**
+what is 'percept' and is the translation just the perception at a future time step? percept is what we want the person to see
+**do we have the response curves for a tetrachromat?** yes
 **what does an optic nerve signal look like? is it like wavelength x intensity? what are teh dimensions/axis?**
+**what is motion blur? does it have to do with saccadic movement? actually moving the eyes/head/object at a fast pace, or is it encoded in our cones?**
 
 ## minimal model of color vision emergence
 taking the current compneuro model we have and trying to reduce the amount of learnable parameters and epochs we need to retain accuracy and still recreate the optic signal. 
@@ -35,7 +41,6 @@ given an original image (like from mac computer display), tell how our eyes woul
 **project directions**: try to encode temporal adaptation and blur within cone cells in the simulation. 
 temporal adaptation? 
 light adaptation: as there is more light in the visual field, the visual response also speeds up so we are more sensitive to fast moving stimuli. 
-
 
 
 questions:
@@ -65,7 +70,6 @@ currently we can only measure the cone response when the user is looking at a fi
 
 # C:
 ### Project 3: A Search for Human Tetrachromats
-
 ## make new tests for tetrachromacy
 given jessica's geometry of 4D color vision, can we come up with tests for 4d. 
 ## others
@@ -94,3 +98,10 @@ analyze pentachromacy
 	have u guys done anything with hummingbirds? seem like super hard subjects. no reason to believe their activity would be the same as a human pentachromat. 
 
 
+
+
+
+design a camera
+design a 3d projector
+basic beam splitting experiments
+BUILD A CAMERA THAT CAN MEASURE GAS FLUX. 

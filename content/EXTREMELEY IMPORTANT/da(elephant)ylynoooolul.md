@@ -1,3 +1,21 @@
+
+meeting w verdi guy next wed
+## fresh start
+- reach out to people from 198 
+	- <s>ashley, ritwik</s>
+	- <s>submit proposal </s>
+- do comp script for water today
+- <s> find nasa people!!! </s>
+	- reach out to them now! 
+	- expand the search to ames
+
+in my time <3
+did my proposals
+ate lunch
+prepped for OH
+# -----------------------------------------------------
+
+
 REACH OUT TO PEOPLE FROM 198 BC I WANNA GET TO KNOW THEM!!!
 start personal projects, page on website
 start threads for internships
