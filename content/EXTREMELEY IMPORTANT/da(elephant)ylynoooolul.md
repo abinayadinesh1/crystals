@@ -1,3 +1,27 @@
+9/18
+buy materials for sandbox tomorrow (programmable led strips, arduino)
+ask dennis baldochi about quiz 3 
+jupyter simulations hw due tomorrow
+finish journaling
+comp color team formation
+70 homework + check discussion answers
+laura waller papers!!!
+who are the people on the steve jobs archives? how do i want my interests to expand and grow? what do i want to be creating?
+look into yc companies, sequoia companies
+emailed for ray summit
+emailed for COMP COLOR TEAM I RLLY WANNA GET INTO
+
+
+9/17
+70 grind:
+- take notes on notes
+- do mini vitamin question with notes in mind
+- go over discussion notes + questions
+- look at hw?
+- take practice midterm
+- redo inductive proofs (!!!!) wherever it seems useful
+- 
+
 
 meeting w verdi guy next wed
 ## fresh start
