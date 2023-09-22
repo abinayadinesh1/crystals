@@ -118,8 +118,8 @@ super cool, novel, goated team
 
 
 ## options
-comp neuro ppl (much harder and less defined scope, should still reach out)
-
 ashley (build camera)
 
-zahra and ritwik, insanely cool, correct for chomatic aberration in hyperspectral imaging
+kaiona + shamus  (graphics)
+
+nicholas (jessica), chris  (compneuro)

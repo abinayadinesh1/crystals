@@ -1,3 +1,6 @@
+join neurotech next sem!
+join laura waller lab next sem!
+
 [CS 180. Intro to Computer Vision and Computational Photography](https://www2.eecs.berkeley.edu/Courses/CS180) (amazing because it counts as a design course)
 
 16 other units of classes

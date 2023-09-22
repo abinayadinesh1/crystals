@@ -1,3 +1,5 @@
+9/18
+https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/
 
 9/16
 https://www.newyorker.com/science/elements/what-are-dreams-for?utm_source=twitter&curius=562
