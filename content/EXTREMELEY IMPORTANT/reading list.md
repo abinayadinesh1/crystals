@@ -1,3 +1,4 @@
+9/21 [[Chemistry, a very short introduction by Peter Atkins]]  (recc from samarth)
 9/18
 https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/
 

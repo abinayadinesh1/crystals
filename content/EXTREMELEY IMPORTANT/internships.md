@@ -1,8 +1,10 @@
 PLACES I REALLY WANT TO WORK
 MINERAL (GOOGLE X)
 APPLE HEALTH
+nasa harvest
 
-
+https://nasaharvest.org/all-projects
+earth data
 
 NASA or some other good startup
 some very niche very good ml company (must prove i have the background through very cool projects. be ambitious. publish them and allow other people to download them.)

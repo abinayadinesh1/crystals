@@ -1,24 +1,64 @@
-ORBIO EARTH
 ## weekly
-work on app, finish script, email apple
-think i missed on eps lecture
-missed two biosphere lectures
+cs70 hw
+finish and understand full midterm
+make demo for apple and for alex
+secure hardware
+	ask conrad during buildspace
+	ask anshul on monday where i can find parts/circuits
+	see if ren has anything i can use
+	follow up w roman if he doesnt respond
+follow up with mineral people
+reach out nasa people
+reach out to cathy 
+apply for bfi things
+find a mentor
+tuesday (meet w ritwik --> find interesting problems in satellite imaging for it, do a literature search, best journals)
+thursday (meet w chaoying, read 1 laura waller paper beforehand)
+new paper reading list? 
+
+9/25
+cs70
+		<s>part 1 of midterm, check answers</s>
+		<s>vitamin a </s>
+	vitamin b
+	<s>go over slides from last tues</s>
+	slides from last thurs
+part 2 of midterm
+mlab decal
+hang w anshul
+eps
+	lab 
+	start hw 
+
+cs 194:
+	make notes on points ren said
+	submit feedback for other projects
+
+
+## weekly (18-25)
+<s>biosphere quiz</s>
+<s>reach out to ppl from ORBIO EARTH</s>
+<s>work on app, finish script</s> email apple
 apply for an ev grant
 	get isaak to review it before i send
-sandbox (project ideas)
+<s>sandbox (project ideas)</s>
 <s>climb more, spend more time with my friends. things arent as fun if u cant do them with people! </s> 
 <s>attend homework parties, attend discussion</s>
-work on scripts
+<s>work on scripts</s>
 then can do recruiting outreach appl stuff
 	email apple
-	email nas apeople
+	email nasa people
 	
 
 9/21
 NEED HARDWARE
-
+70
+eps lab
+read diffuser cam
+CS 70 SESSION. MORNING TOMORROW
 
 record a loom/make a demo for the script
+	finish analysis on rest of images
 	<s>work on SCRIPT!!</s>
 <s>work on backend? </s>
 prep for meeting w roman tomorrow
