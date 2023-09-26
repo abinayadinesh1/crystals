@@ -1,10 +1,25 @@
+
 ## weekly
+
+revisit ideas for project page this semester
+NEED EXTRA MONEY/INCOME
+summaries for espm 198
+meet w chris from sandbox decal
+[[satellite imagery]]
+read note 9 to finish mini vitamin b
 cs70 hw
 finish and understand full midterm
+	MIDTERM ON OCTOBER 12TH. 
+		this weekend is going through all the notes so far and taking notes on them (myself then looking at discussion notes)
 make demo for apple and for alex
+	CAN GET ALEX TO BELIEVE IN ME EVEN W JUST THE 
+	graphql backend
+	need hardware to take high quality pictures
+	3d print the right sized box
+	set up the right circuitry for it (to automate taking a picture ), then 3d print a white outside/black outside box  
 secure hardware
 	ask conrad during buildspace
-	ask anshul on monday where i can find parts/circuits
+	**ask anshul on monday where i can find parts/circuits**
 	see if ren has anything i can use
 	follow up w roman if he doesnt respond
 follow up with mineral people

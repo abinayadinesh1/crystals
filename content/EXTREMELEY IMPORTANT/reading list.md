@@ -1,3 +1,8 @@
+9/26
+https://visakanv.substack.com/p/are-you-serious?s=r&curius=2011
+https://www.avabear.xyz/p/practical-magic?curius=1296
+
+
 9/21 [[Chemistry, a very short introduction by Peter Atkins]]  (recc from samarth)
 9/18
 https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/
