@@ -1,35 +1,69 @@
 
+## friday-sunday
+friday:
+[[cs70 midterm review]]
+saturday:
+biosphere midterm review 
 ## weekly
-
 revisit ideas for project page this semester
-NEED EXTRA MONEY/INCOME
-summaries for espm 198
+	NEED EXTRA MONEY/INCOME
 meet w chris from sandbox decal
-[[satellite imagery]]
-read note 9 to finish mini vitamin b
+<s>[[satellite imagery]]</s>
 cs70 hw
 finish and understand full midterm
 	MIDTERM ON OCTOBER 12TH. 
 		this weekend is going through all the notes so far and taking notes on them (myself then looking at discussion notes)
+		need to do this for biosphere too 
 make demo for apple and for alex
 	CAN GET ALEX TO BELIEVE IN ME EVEN W JUST THE 
 	graphql backend
 	need hardware to take high quality pictures
-	3d print the right sized box
-	set up the right circuitry for it (to automate taking a picture ), then 3d print a white outside/black outside box  
+	<s>3d print the right sized box</s> (made out of cardboard for now)
+	set up the right circuitry for it (to automate taking a picture
 secure hardware
-	ask conrad during buildspace
-	**ask anshul on monday where i can find parts/circuits**
-	see if ren has anything i can use
-	follow up w roman if he doesnt respond
+	<s>make final purchases! we are so close!</s>
+	<s>ask conrad during buildspace</s> (tried looking in makerspace, no luck)
+	<s>**ask anshul on monday where i can find parts/circuits**</s>
+	<s>see if ren has anything i can use</s> (might help later)
 follow up with mineral people
 reach out nasa people
+	apply to nasa internships
 reach out to cathy 
 apply for bfi things
 find a mentor
-tuesday (meet w ritwik --> find interesting problems in satellite imaging for it, do a literature search, best journals)
+<s>tuesday (meet w ritwik --> find interesting problems in satellite imaging for it, do a literature search, best journals)</s>
+
+9/28
+<s>note 9 </s>
+past slides (past thurs, tues, thurs)
 thursday (meet w chaoying, read 1 laura waller paper beforehand)
-new paper reading list? 
+<s>FINISH PURCHASING HARDWARE </s>
+
+
+9/27
+catch up on eps lecture from yesterday (monte carlo methods number 2)
+call mom properly
+<s>check in with self, journal :) </s>
+<s>ssa </s>
+prep for finn's birthday!
+<s>kairos</s>
+finish note 9, finish mini vit
+finish midterm proofs + check 
+summaries for espm 198
+finish eps lab
+send email to ritwik w names
+<s>look into nasa internships </s>
+reach out to guy from apple and recruiter
+
+convo w samarth abt intensely curious people
+building project page on personal website
+extending vibe check to sony hues (this weekend, 2 hours)
+blog post abt summer? 
+	read samarth's on his gap year
+
+reach out to multimodal people at fair
+
+
 
 9/25
 cs70

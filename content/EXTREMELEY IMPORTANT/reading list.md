@@ -1,3 +1,11 @@
+9/28
+diffuser spec - https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-2-323&id=524687  - using scotch tape as a spectrometer and using a calibrated spatial-spectral transfer matrix (SSTM) WHICH IS THE SPECKLE PATTERNS FOR EACH WAVELENGTH to get a spectrum of information for one wavelength component in a broadband signal instead of just a pixel
+
+spectral diffuser cam: https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-10-1298&id=440114
+
+https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-10-11574&id=366515 (non line of sight imaging paper)
+
+
 9/26
 https://visakanv.substack.com/p/are-you-serious?s=r&curius=2011
 https://www.avabear.xyz/p/practical-magic?curius=1296

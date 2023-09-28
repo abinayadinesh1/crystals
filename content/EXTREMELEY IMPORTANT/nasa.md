@@ -1,4 +1,19 @@
 
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QuFuEAK/onsite-small-satellite-platform-development-and-modeling-intern
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QuFuEAK/onsite-small-satellite-platform-development-and-modeling-intern
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001Qx0cEAC/imaging-realtime-radiation-responses
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001SLn6EAG/onsite-long-term-evolution-of-microbes-to-spaceflight
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001Spb7EAC/development-of-the-solar-global-activity-data-portal
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001U4IMEA0/intern-for-biosensor-development
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001Ti18EAC/support-for-the-joint-nasausfs-aeoip
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QjxOEAS/optics-for-space
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QuB6EAK/from-soil-to-sea-dust-aerosols-and-climate
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QxBhEAK/machinelearning-approaches-to-accelerate-satellite-retrievals
+https://stemgateway.nasa.gov/public/s/course-offering/a0B3d000001QxBwEAK/merging-and-analysis-of-multisensor-imagery-over-polar-regions
+
+
+
+
 - [Kelly Chance](https://www.cfa.harvard.edu/people/kelly-chance)
 	- introduced a method of space-based UV/visible spectroscopy to measure the troposphere
 - [Xiong Liu](https://www.cfa.harvard.edu/people/xiong-liu)
