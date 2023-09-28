@@ -1,5 +1,17 @@
 
 
+nasa harvest - PI from arizona! 
+corteva
+mineral
+
+apple health, satellites
+microsoft + bair? 
+azure
+aws
+nasa harvest - PI from arizona! 
+	email to riwtik
+
+
 
 
 
