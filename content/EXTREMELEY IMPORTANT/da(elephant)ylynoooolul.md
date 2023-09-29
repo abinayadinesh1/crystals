@@ -36,9 +36,27 @@ find a mentor
 9/28
 <s>note 9 </s>
 past slides (past thurs, tues, thurs)
-thursday (meet w chaoying, read 1 laura waller paper beforehand)
+<s>thursday (meet w chaoying, read 1 laura waller paper beforehand) </s>
 <s>FINISH PURCHASING HARDWARE </s>
+apply for apple through KWK
+email JOHN !!! email ALEX!!!
+submit eps assignments
 
+N intervals
+N+1 points
+initialize all arrays in python to N+1
+
+after discretizing its no longer a differential equations
+linear system of equations
+python package called linear algebra - we will not do it that way!!!
+
+instead, we solve it iteratively
+**for high dimensional problems, it is much better to do it iteratively than by a linear system**
+	bc gigantic matrices u cant solve
+	instead get local solutin every time
+
+
+1. differential to discretize and get linear system. solve it iteartively
 
 9/27
 catch up on eps lecture from yesterday (monte carlo methods number 2)
