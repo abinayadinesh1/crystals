@@ -6,7 +6,6 @@ saturday:
 biosphere midterm review 
 ## weekly
 revisit ideas for project page this semester
-	NEED EXTRA MONEY/INCOME
 meet w chris from sandbox decal
 <s>[[satellite imagery]]</s>
 cs70 hw
@@ -20,7 +19,7 @@ make demo for apple and for alex
 	need hardware to take high quality pictures
 	<s>3d print the right sized box</s> (made out of cardboard for now)
 	set up the right circuitry for it (to automate taking a picture
-secure hardware
+<s>secure hardware </s>
 	<s>make final purchases! we are so close!</s>
 	<s>ask conrad during buildspace</s> (tried looking in makerspace, no luck)
 	<s>**ask anshul on monday where i can find parts/circuits**</s>
@@ -38,7 +37,7 @@ find a mentor
 past slides (past thurs, tues, thurs)
 <s>thursday (meet w chaoying, read 1 laura waller paper beforehand) </s>
 <s>FINISH PURCHASING HARDWARE </s>
-apply for apple through KWK
+<s>apply for apple through KWK</s>
 email JOHN !!! email ALEX!!!
 submit eps assignments
 
