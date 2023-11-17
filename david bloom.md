@@ -24,3 +24,5 @@ anshul and inga working on kernel flow
 
 goals for today:
 continue prepping for call tomorrow
+
+[[david bloom from house fund]]

@@ -12,4 +12,9 @@ title: Crystals
 
 [[computer simulations (eps 109)]]
 
+[[mineral_hw]]
+
+[[November]]
+
+
 
