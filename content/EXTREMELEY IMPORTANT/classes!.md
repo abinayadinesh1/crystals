@@ -4,24 +4,25 @@ join laura waller lab next sem!
 [CS 180. Intro to Computer Vision and Computational Photography](https://www2.eecs.berkeley.edu/Courses/CS180) (amazing because it counts as a design course)
 
 16 other units of classes
+[CS 184. Foundations of Computer Graphics](https://www2.eecs.berkeley.edu/Courses/CS184
 [CS 170. Efficient Algorithms and Intractable Problems](https://www2.eecs.berkeley.edu/Courses/CS170)
-[CS 176. Algorithms for Computational Biology](https://www2.eecs.berkeley.edu/Courses/CS176)
+[CS 189. Introduction to Machine Learning](https://www2.eecs.berkeley.edu/Courses/CS189)
 [CS 182. Designing, Visualizing and Understanding Deep Neural Networks](https://www2.eecs.berkeley.edu/Courses/CS182)
-[CS 184. Foundations of Computer Graphics](https://www2.eecs.berkeley.edu/Courses/CS184)[CS 189. Introduction to Machine Learning](https://www2.eecs.berkeley.edu/Courses/CS189)
+COMPSCI 168
 
+[EE C106A. Introduction to Robotics](https://www2.eecs.berkeley.edu/Courses/EEC106A)
+[EE 118. Introduction to Optical Engineering](https://www2.eecs.berkeley.edu/Courses/EE118)
+**[EE 120. Signals and Systems](https://www2.eecs.berkeley.edu/Courses/EE120/)
+EL ENG 122  Introduction to Communication Networks**
+[EE 126. Probability and Random Processes](https://www2.eecs.berkeley.edu/Courses/EE126)
+
+[CS 176. Algorithms for Computational Biology](https://www2.eecs.berkeley.edu/Courses/CS176
 [CS C281B. Advanced Topics in Learning and Decision Making](https://www2.eecs.berkeley.edu/Courses/CSC281B)? 
 
 any  upper division CS/EE/EECS course or from our approved technical electives
 (can ask if any of these two non ee classes will work)
 [Math 118 - Fourier Analysis, Wavelets and Signal Processing](https://math.berkeley.edu/~wilken/118.S09/)
 **[Physics 110b, Electromagnetism and Optics](https://classes.berkeley.edu/content/2022-spring-physics-110b-001-lec-001)**
-
-
-[EE C106A. Introduction to Robotics](https://www2.eecs.berkeley.edu/Courses/EEC106A)
-[EE 118. Introduction to Optical Engineering](https://www2.eecs.berkeley.edu/Courses/EE118)
-[EE 120. Signals and Systems](https://www2.eecs.berkeley.edu/Courses/EE120/)
-[EE 126. Probability and Random Processes](https://www2.eecs.berkeley.edu/Courses/EE126)
-
 
 ### crs
 social science core: [ESPM C52: History of Native American Land, Colonialism, and Heritage Preservation](https://guide.berkeley.edu/search/?P=ESPM+c52) [3] or [ESPM 60: Environmental Policy, Administration, and Law](http://guide.berkeley.edu/search/?P=%22ESPM+60%22) [4]
@@ -39,7 +40,7 @@ One course (3-4 units) in [Arts and Literature](https://lsadvising.berkeley.edu
 
 24 units of other:
 12 done (espm 112l, espm 120, espm 131, ugis 192c(2), espm 290 farm bill (2))
-only need 12 more units
+only need 12 more units 
 	ESPM 112 Microbial Ecology
 	ESPM 118 Agroecology
 	ESPM C126 Animal Behavior

@@ -1,0 +1,2 @@
+between generator and discriminator
+

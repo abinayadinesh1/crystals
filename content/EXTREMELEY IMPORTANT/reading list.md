@@ -1,3 +1,27 @@
+paul atkins entropy
+the order of time 
+finish shannons paper
+
+https://web.media.mit.edu/~ishii/RadicalAtoms_ACM_Interactios.pdf 
+https://www.adept.ai/blog/fuyu-8b - adept multimodal
+[[adept multimodal]]
+
+
+papers
+https://www.microsoft.com/en-us/research/blog/holoassist-a-multimodal-dataset-for-next-gen-ai-copilots-for-the-physical-world/
+https://www.microsoft.com/en-us/research/blog/neural-graphical-models/
+https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/
+https://www.microsoft.com/en-us/research/blog/micro-climate-predictions-enabling-hyper-local-decisions-for-agriculture-and-renewables/
+
+
+- Graphormer [[arxiv(opens in new tab)](https://arxiv.org/pdf/2106.05234.pdf)] [[github(opens in new tab)](https://github.com/microsoft/Graphormer)] [[blog(opens in new tab)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/transformer-stands-out-as-the-best-graph-learner-researchers-from-microsoft-research-asia-wins-the-kdd-cups-2021-graph-prediction-track/)]: the first general-purpose Transformer for graph data, which won the 1st place of KDD Cup 2021 OGB-LSC challenge [[kdd(opens in new tab)](https://ogb.stanford.edu/kddcup2021/results/)] [[technical report(opens in new tab)](https://arxiv.org/abs/2106.08279)] and the 1st Open Catalyst Challenge [[link(opens in new tab)](https://proceedings.mlr.press/v176/das22a/das22a.pdf)], outperforming teams from Google DeepMind, Meta AI Research, and others.
+
+interesting and from microsoft climate research initiative!![Real-time Monitoring Carbon Control Progress from CO2 and Air Pollutant Observations with a Physically-informed Transformer-based Neural Network ](https://www.microsoft.com/en-us/research/collaboration/microsoft-climate-research-initiative/projects/)
+[- Rapid Inference of Nitrogen Oxide Emissions Based on a Top-Down Method with a Physically Informed Variational Autoencoder](https://www.microsoft.com/en-us/research/publication/rapid-inference-of-nitrogen-oxide-emissions-based-on-a-top-down-method-with-a-physically-informed-variational-autoencoder/)
+- [Mimicking atmospheric photochemical modeling with a deep neural network](https://www.microsoft.com/en-us/research/publication/mimicking-atmospheric-photochemical-modeling-with-a-deep-neural-network/)
+- [Deep learning for prediction of the air quality response to emission changes](https://www.microsoft.com/en-us/research/publication/deep-learning-for-prediction-of-the-air-quality-response-to-emission-changes/)
+
+
 9/28
 diffuser spec - https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-2-323&id=524687  - using scotch tape as a spectrometer and using a calibrated spatial-spectral transfer matrix (SSTM) WHICH IS THE SPECKLE PATTERNS FOR EACH WAVELENGTH to get a spectrum of information for one wavelength component in a broadband signal instead of just a pixel
 

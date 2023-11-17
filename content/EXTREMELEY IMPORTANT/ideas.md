@@ -1,3 +1,7 @@
+
+
+can we use 
+we can go from protein sequence to structure. how do you go from gene expression to strcuture? 
 HOW U GET THE GAMUT, diffraction limit
 make a lenseless camera https://waller-lab.github.io/DiffuserCam/
 history of california agriculture, institutions, and technology

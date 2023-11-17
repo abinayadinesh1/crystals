@@ -31,3 +31,18 @@ https://academic.oup.com/bioscience/article/67/12/1026/4605229?login=false
 
 ## What Every Environmentalist Needs to Know About Capitalism
 https://monthlyreview.org/2010/03/01/what-every-environmentalist-needs-to-know-about-capitalism/
+
+world climate agreement in copenhagen in 2009 
+**stripped out specific reduction targets from the final text and ensured it was not legally binding**
+so lowk failed because no incentives for gov to keep up w what they said
+
+
+the main drivers behind current environmental damage are our increasing populations, the use of technology to accelerate construction and development, and an economy/government that boundlessly pursues economic growth in lieu of systemic improvements. 
+
+
+**greed, exploitation of laborers, and competition** (among people, businesses, countries) are not only acceptable but are actually good for society because they help to make our economy function “efficiently.”
+
+1. capitalism can always expand to increase one's individual growth and has no boundaries with nature. exploitation for indiviiual success leading to failure of the group. 
+2. There is no alternative under capitalism to the endless expansion of the “**real economy**” (i.e., production), irrespective of actual human needs, consumption, or the environment
+
+the stationary state of a system, where money produced is just reinvested in the system to keep things running. net neutral. 
